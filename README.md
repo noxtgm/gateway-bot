@@ -71,7 +71,7 @@ First of all, I recommend knowing how developing bots with Autocode functions, f
   <br>
   5. Create the environment variables
   <br>
-  <img src="images/environment-variables.png" width="707" height="180">
+  <img src="images/environment-variables.png" width="353.5" height="90">
 </p>
 
 
