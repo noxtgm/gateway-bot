@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Here is the source code for the bot on my <a href="https://discord.gg/ZtTE4E8E4Y" target="_blank">Discord server</a> hosted on <a href="https://www.autocode.com/" target="_blank">Autocode</a>.</h4>
+<h4 align="center">Here is the source code for the bot on my <a href="https://discord.gg/ZtTE4E8E4Y" target="_blank">Discord server</a> hosted on <a href="https://www.autocode.com/" target="_blank">Autocode</a> 🚀</h4>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/noxtgm/gateway-bot?style=for-the-badge">
@@ -76,6 +76,8 @@ First of all, I recommend knowing how developing bots with Autocode functions, f
   5. Create the environment variables
   <br>
   <img src="https://cdn.discordapp.com/attachments/997132994416496720/1036593136794869831/environment-variables.png" width="353.5" height="90">
+  <br>
+  6. Recreate the hierarchy as in the repository and paste the script's contents
 </p>
 
 
