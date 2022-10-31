@@ -1,7 +1,6 @@
-
 <h1 align="center">
   <br>
-  <a href="https://discord.gg/ZtTE4E8E4Y" target="_blank"><img src="images/gateway-logo.png" alt="Gateway Logo" width="300" height="300"></a>
+  <a href="https://discord.gg/ZtTE4E8E4Y" target="_blank"><img src="https://cdn.discordapp.com/attachments/997132994416496720/1036593104247078962/gateway-logo.png" alt="Gateway Logo" width="300" height="300"></a>
   <br>
   Gateway Discord Bot
   <br>
@@ -39,7 +38,7 @@
 <!-- BEFORE STARTING -->
 ## Before Starting
 
-First of all, I recommend knowing how developing bots with Autocode functions, for those just starting out, here's a helpful [guide][autocode-guide]. You can either use samples of code or even whole scripts, however, choosing the second option requires vigilance, as some values are hard-coded meaning you'll have to manually modify them inorder to get the script to work (game role ids for example).
+First of all, I recommend knowing how developing bots with Autocode functions, for those just starting out, here's a helpful [guide][autocode-guide]. You can either use samples of code or even whole scripts, however, choosing the second option requires vigilance, as some values are hard-coded meaning you'll have to manually modify them in order to get the script to work (game role ids for example).
 
 
 
@@ -50,6 +49,11 @@ First of all, I recommend knowing how developing bots with Autocode functions, f
 * Games panel with buttons to recieve roles
 * Notifications panel with select menu to recieve roles
 * Bot status displaying amount of members on the guild
+
+### Incoming Features
+
+* Ticket system
+* Music system (won't work perfectly but it can be used as a good starting point)
 
 
 
@@ -63,15 +67,15 @@ First of all, I recommend knowing how developing bots with Autocode functions, f
   <br>
   3. Click the Link button in the bottom left
   <br>
-  <img src="images/link-resource.png" width="250" height="39">
+  <img src="https://cdn.discordapp.com/attachments/997132994416496720/1036593117048090634/link-resource.png" width="250" height="39">
   <br>
   4. Type Discord in the search bar and follow the instructions
   <br>
-  <img src="images/discord-resource.png" width="250" height="73">
+  <img src="https://cdn.discordapp.com/attachments/997132994416496720/1036593128062337204/discord-resource.png" width="250" height="73">
   <br>
   5. Create the environment variables
   <br>
-  <img src="images/environment-variables.png" width="353.5" height="90">
+  <img src="https://cdn.discordapp.com/attachments/997132994416496720/1036593136794869831/environment-variables.png" width="353.5" height="90">
 </p>
 
 
@@ -79,7 +83,7 @@ First of all, I recommend knowing how developing bots with Autocode functions, f
 <!-- CONTRIBUTING -->
 ## Contributing
 
-If you have a suggestion that would make this repository better, please fork it and create a pull request. You can also simply open an issue with the tag "enhancement" or something along this line. If you end up using the source code in this repo, consider giving it a star !
+If you have a suggestion that would make this repository better, please fork it and create a pull request. Or you can simply open an issue with the tag "enhancement" or something along this line. If you end up using the source code in this repo, consider giving it a star !
 
 
 
