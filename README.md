@@ -50,7 +50,7 @@ First of all, I recommend knowing how developing bots with Autocode functions, f
 * Notifications panel with select menu to recieve roles
 * Bot status displaying amount of members on the guild
 
-### Incoming Features
+### Incoming Features (might come or not who knows)
 
 * Ticket system
 * Music system (won't work perfectly but it can be used as a good starting point)
