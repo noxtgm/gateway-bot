@@ -53,7 +53,7 @@ First of all, I recommend knowing how developing bots with Autocode functions, f
 ### Incoming Features (might come or not who knows)
 
 * Ticket system
-* Music system (won't work perfectly but it can be used as a good starting point)
+* Music system
 
 
 
