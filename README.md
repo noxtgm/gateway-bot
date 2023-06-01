@@ -33,16 +33,10 @@
   <a href="#contact">Contact</a>
 </p>
 
-
-
-<!-- BEFORE STARTING -->
 ## Before Starting
 
 First of all, I recommend knowing how developing bots with Autocode functions, for those just starting out, here's a helpful [guide][autocode-guide]. You can either use samples of code or even whole scripts, however, choosing the second option requires vigilance, as some values are hard-coded meaning you'll have to manually modify them in order to get the script to work (game role ids for example).
 
-
-
-<!-- KEY FEATURES -->
 ## Key Features
 
 * Rules panel with buttons to recieve member role
@@ -55,9 +49,6 @@ First of all, I recommend knowing how developing bots with Autocode functions, f
 * Ticket system
 * Music system
 
-
-
-<!-- HOW TO USE -->
 ## How to Use
 
 <p>
@@ -80,31 +71,14 @@ First of all, I recommend knowing how developing bots with Autocode functions, f
   6. Recreate the hierarchy as in the repository and paste the script's contents
 </p>
 
-
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 If you have a suggestion that would make this repository better, please fork it and create a pull request. Or you can simply open an issue with the tag "enhancement" or something along this line. If you end up using the source code in this repo, consider giving it a star !
 
+## 🔑 License
 
+[MIT](https://choosealicense.com/licenses/mit/)
 
-<!-- LICENSE -->
-## License
+## 🔗 Contact
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">][github-url]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40">][discord-url]
-
-
-
-<!-- LINKS -->
-[github-url]: https://github.com/noxtgm
-[discord-url]: https://discord.gg/ZtTE4E8E4Y
-[autocode-guide]: https://autocode.com/guides/how-to-build-a-discord-bot/?utm_source=youtube&utm_medium=short_url&utm_campaign=youtube_description
+[@NoxTGM on all socials](https://bento.me/noxtgm)
