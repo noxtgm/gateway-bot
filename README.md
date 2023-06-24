@@ -58,15 +58,15 @@ First of all, I recommend knowing how developing bots with Autocode functions, f
   <br>
   3. Click the Link button in the bottom left
   <br>
-  <img src="https://cdn.discordapp.com/attachments/997132994416496720/1036593117048090634/link-resource.png" width="250" height="39">
+  <img src="https://cdn.discordapp.com/attachments/1122216007163973804/1122216060196757595/link-resource.png" width="250" height="39">
   <br>
   4. Type Discord in the search bar and follow the instructions
   <br>
-  <img src="https://cdn.discordapp.com/attachments/997132994416496720/1036593128062337204/discord-resource.png" width="250" height="73">
+  <img src="https://cdn.discordapp.com/attachments/1122216007163973804/1122216044652675152/discord-resource.png" width="250" height="73">
   <br>
   5. Create the environment variables
   <br>
-  <img src="https://cdn.discordapp.com/attachments/997132994416496720/1036593136794869831/environment-variables.png" width="353.5" height="90">
+  <img src="https://cdn.discordapp.com/attachments/1122216007163973804/1122216020556398653/environment-variables.png" width="353.5" height="90">
   <br>
   6. Recreate the hierarchy as in the repository and paste the script's contents
 </p>
