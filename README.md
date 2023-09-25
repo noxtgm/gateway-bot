@@ -81,4 +81,4 @@ If you have a suggestion that would make this repository better, please fork it 
 
 ## 🔗 Contact
 
-[@NoxTGM on all socials](https://bento.me/noxtgm)
+[@NoxTGM on all socials](https://noxtgm.me)
