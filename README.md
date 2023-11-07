@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://discord.gg/ZtTE4E8E4Y" target="_blank"><img src="https://media.discordapp.net/attachments/1166779559904030780/1166779587582234734/gateway-logo.png" alt="Gateway Logo" width="300" height="300"></a>
+  <a href="https://discord.gg/ZtTE4E8E4Y" target="_blank"><img src="https://cdn.discordapp.com/attachments/1171499089360343052/1171499130430955550/gateway-logo.png" alt="Gateway Logo" width="300" height="300"></a>
   <br>
   Gateway Discord Bot
   <br>
