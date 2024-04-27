@@ -5,7 +5,7 @@ Here is the source code for the bot on my Discord server hosted on Autocode.
 
 ###
 
-First of all, I recommend knowing how developing bots with Autocode functions, for those just starting out, here's a helpful [guide][autocode-guide]. You can either use samples of code or even whole scripts, however, choosing the second option requires vigilance, as some values are hard-coded meaning you'll have to manually modify them in order to get the script to work (game role ids for example).
+First of all, I recommend knowing how developing bots with Autocode functions, for those just starting out. You can either use samples of code or the whole scripts, however, choosing the second option requires vigilance, as some values are hard-coded meaning you'll have to manually modify them in order to get the whole bot to work (game role ids for example).
 
 ###
 
