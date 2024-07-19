@@ -44,7 +44,7 @@ First of all, I recommend knowing how developing bots with Autocode functions, f
 
 <div align=center style="text-align: center;"><h2>LICENSE</h2></div>
 
-[Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/)
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 ###
 
