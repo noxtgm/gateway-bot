@@ -1,6 +1,6 @@
 # Gateway Discord Bot
 
-Source code for the bot on my Discord server hosted on Autocode. It features styled panels (rules, games, etc), roles and notifications panels that utilize Discord's new drop down select menu, and bot status displaying member count.
+Source code for the bot on my Discord server hosted on Autocode. It features general purpose functions such as styled panels (rules, games, etc), roles and notifications panels that utilize Discord's new drop down select menu, and bot status displaying member count.
 
 > [!CAUTION]
 >  This project was originally made on a hosting website called Autocode which has shut down since April 26th, 2024.
